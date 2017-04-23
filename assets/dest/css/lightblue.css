@@ -1,0 +1,55 @@
+/* ==========================================================================
+    COLOR STYLELIGHT BLUE
+============================================================================= */
+.main-menu ul li.active> a{background:#7abcde; }
+.sub-menu li.active, .children li.active{background:#7abcde;}
+.main-menu ul.l-inline> li> a:hover{background: #7abcde!important;}
+.sub-menu li:hover, .children li:hover{background: #7abcde!important;}
+.add-to-cart{background:#7abcde;}
+.ribbon{background:#7abcde;}
+.beta-tags a:hover{background:#7abcde;}
+#price-filter-range .ui-slider-handle{background:#7abcde;}
+.beta-btn.primary:hover{background:#7abcde;}
+.aside .widget-title{border-left: 3px solid #7abcde;}
+
+.work-item-actions a:hover{background: #7abcde;}
+.icon-box-a i{color: #7abcde;}
+.icon-circle{border: 1px solid #7abcde;color: #7abcde;}
+.icon-box-b i{color: #7abcde;}
+.beta-circle{background: #7abcde;}
+.beta-filter ul#filters li.active a{border: 1px solid #7abcde;}
+.panel-default>.panel-heading.beta-active-tab{background: #7abcde;}
+.panel-default>.panel-heading .panel-title a:hover i{color: #7abcde;}
+.beta-highlight{background-color:#7abcde;}
+.bg-color4{background-color:#7abcde;}
+
+.beta-progress .progress-bar{background-color:#7abcde;}
+.ratio-1x1 i{color:#7abcde;}
+.icon-box-f .icon-box-icon i{color:#7abcde;}
+.beta-counter i{color:#7abcde;}
+.icon-box-c i{color:#7abcde;}
+.bg-color10{background-color:#7abcde;}
+.panel-default>.panel-heading .panel-title a:hover .accordion-circle{border: 1px solid #7abcde;}
+.icon-box-g:hover .icon-box-icon{color:#7abcde;}
+.icon-box-g:hover .icon-box-caption{background-color:#7abcde;}
+.icon-box-g:hover .indicator-top-small{border-color: transparent transparent #7abcde transparent;}
+.history-navigation a.active{background-color:#7abcde;}
+.history-navigation a{border: 2px solid #7abcde;}
+.inner-header{background-color:#7abcde;}
+.beta-callout-box-a i{color:#7abcde;}
+.icon-box-d i{color:#7abcde;}
+.icon-box-d:hover i{color:#f90;}
+.uc-header{background-color:#7abcde;}
+.beta-subscribers button{background-color:#7abcde;}
+.beta-blog-date{background-color:#7abcde;}
+.mejs-audio .mejs-controls .mejs-time-current, .mejs-audio .mejs-controls .mejs-horizontal-volume-current{background-color:#7abcde!important;}
+.beta-calendar .ui-datepicker-calendar a:hover{background-color:#7abcde!important;}
+.beta-message{background-color:#7abcde;}
+.beta-pricing span.beta-price-button a{background-color:#7abcde;}
+table.shop_table tfoot td .beta-btn, table.shop_table tfoot th .beta-btn{background-color:#7abcde;}
+table.shop_table tfoot td .beta-btn:hover, table.shop_table tfoot th .beta-btn:hover{background-color:#f90;}
+.beta-promobox-b{background-color:#7abcde;}
+
+.parent-active>a{background:#7abcde; color:white;}
+.sub-menu li.parent-active, .children li.parent-active{background:#7abcde; }
+.sub-menu li.parent-active>a, .children li.parent-active>a{color:white!important;}
